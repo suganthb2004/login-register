@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import { BrowserRouter as Router, Route, createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Register from './components/register';
 import Login from './components/login';
